@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0620"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2BCF85B41B060A9C007E4B54"
+               BuildableName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.app"
+               BlueprintName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;"
+               ReferencedContainer = "container:ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2BCF85CB1B060A9C007E4B54"
+               BuildableName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;Tests.xctest"
+               BlueprintName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;Tests"
+               ReferencedContainer = "container:ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2BCF85CB1B060A9C007E4B54"
+               BuildableName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;Tests.xctest"
+               BlueprintName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;Tests"
+               ReferencedContainer = "container:ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2BCF85B41B060A9C007E4B54"
+            BuildableName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.app"
+            BlueprintName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;"
+            ReferencedContainer = "container:ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2BCF85B41B060A9C007E4B54"
+            BuildableName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.app"
+            BlueprintName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;"
+            ReferencedContainer = "container:ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2BCF85B41B060A9C007E4B54"
+            BuildableName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.app"
+            BlueprintName = "ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;"
+            ReferencedContainer = "container:ToDo&#x30a2;&#x30d5;&#x309a;&#x30ea;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
